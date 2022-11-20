@@ -1,8 +1,5 @@
 node_modules
-.env*
-!.env.example*
-config
-build
-dist
-yarn-error.log*
+.env
 .DS_Store
+yarn-error.log
+dist

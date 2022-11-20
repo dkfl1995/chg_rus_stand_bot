@@ -1,6 +1,0 @@
-{
-  "plugins": [
-    "@snowpack/plugin-babel",
-    "@snowpack/plugin-sass"
-  ]
-}
